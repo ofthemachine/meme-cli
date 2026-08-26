@@ -1,0 +1,33 @@
+name: Jim Halpert Pointing to Whiteboard
+source: https://knowyourmeme.com/memes/jim-halpert-pointing-to-whiteboard
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- the office
+- jim halpert pointing to whiteboard
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0555
+  y: 0.045
+  width: 0.549
+  height: 0.22
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+  angle: 1.0
+- name: bottom
+  x: 0.0475
+  y: 0.56
+  width: 0.495
+  height: 0.35
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+example_text:
+- office stare
+- internally writing this meme

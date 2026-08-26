@@ -1,0 +1,27 @@
+name: Xzibit Yo Dawg
+source: http://knowyourmeme.com/memes/xzibit-yo-dawg
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- xzibit yo dawg
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- yo dawg I heard you like bits
+- so I put a bit in your bit

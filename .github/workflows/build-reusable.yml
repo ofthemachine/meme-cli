@@ -1,0 +1,68 @@
+name: Build meme-cli (reusable)
+
+on:
+  workflow_call:
+    inputs:
+      version:
+        description: Version string to embed in the binary (defaults to "dev" for non-release builds)
+        type: string
+        default: dev
+
+jobs:
+  build:
+    name: 🛠 Build meme-cli
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
+
+      - name: Setup Go
+        uses: actions/setup-go@d35c59abb061a4a6fb18e82ac0862c26744d6ab5
+        with:
+          go-version-file: 'go.mod'
+
+      - name: Vet
+        run: go vet ./...
+
+      - name: Install golangci-lint
+        run: go install github.com/golangci/golangci-lint/v2/cmd/golangci-lint@v2.13.2
+
+      - name: Lint
+        run: golangci-lint run
+
+      - name: Run unit tests
+        run: go test ./...
+
+      - name: Run integration tests
+        run: go test ./tests -v -tags=integration
+
+      - name: Build multi-arch binaries (Linux + Windows + macOS)
+        run: |
+          set -e
+          COMMIT_SHA=$(git rev-parse --short HEAD)
+          for platform in "linux/amd64" "linux/arm64" "windows/amd64" "darwin/amd64" "darwin/arm64"; do
+            GOOS=$(echo "$platform" | cut -d'/' -f1)
+            GOARCH=$(echo "$platform" | cut -d'/' -f2)
+            PLATFORM_NAME="${GOOS}-${GOARCH}"
+            OUT="meme-cli-${PLATFORM_NAME}"
+            [ "$GOOS" = "windows" ] && OUT="${OUT}.exe"
+
+            echo "Building ${PLATFORM_NAME}..."
+            CGO_ENABLED=0 GOOS="${GOOS}" GOARCH="${GOARCH}" go build \
+              -trimpath -buildvcs=false \
+              -ldflags="-s -w -X github.com/ofthemachine/meme-cli/cmd.version=${{ inputs.version }}+${COMMIT_SHA}" \
+              -o "${OUT}" .
+
+            sha256sum "${OUT}" > "${OUT}.sha256"
+          done
+
+          sha256sum meme-cli-* | grep -v "\.sha256" > checksums.txt
+
+      - name: Upload binaries as artifact
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: meme-cli-binaries
+          path: |
+            meme-cli-*
+            checksums.txt
+          retention-days: 1

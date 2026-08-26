@@ -1,0 +1,39 @@
+name: Are You Two Friends?
+source: https://knowyourmeme.com/memes/are-you-two-friends
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- star trek
+- are you two friends?
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.28
+  y: 0.2
+  width: 0.54
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+  angle: -3.0
+- name: bottom
+  x: 0.07
+  y: 0.65
+  width: 0.36
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+  angle: 5.0
+- name: middle
+  x: 0.4825
+  y: 0.69
+  width: 0.405
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- how you doin
+- with that existential dread
+- comedy = coping

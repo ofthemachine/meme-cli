@@ -1,0 +1,28 @@
+name: I'm Going to Build My Own Theme Park
+source: http://knowyourmeme.com/memes/im-going-to-build-my-own-theme-park-with-blackjack-and-hookers
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- futurama
+- i'm going to build my own theme park
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- manifesting abundance
+- receiving spam coupons

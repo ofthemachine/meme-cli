@@ -1,0 +1,40 @@
+name: Daily Struggle
+source: https://knowyourmeme.com/memes/daily-struggle
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- daily struggle
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.101
+  y: 0.085
+  width: 0.288
+  height: 0.095
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+  angle: 12.5
+- name: bottom
+  x: 0.4665
+  y: 0.055
+  width: 0.207
+  height: 0.09
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+  angle: 10.5
+- name: middle
+  x: 0.086
+  y: 0.82
+  width: 0.828
+  height: 0.15
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- locally sourced meltdown
+- artisanal overthinking
+- schedule a haunting

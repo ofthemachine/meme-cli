@@ -1,0 +1,39 @@
+name: Left Exit 12 Off Ramp
+source: https://knowyourmeme.com/memes/left-exit-12-off-ramp
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- left exit 12 off ramp
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.2475
+  y: 0.15
+  width: 0.135
+  height: 0.22
+  align: center
+  valign: middle
+  color: '#BBBBBB'
+  stroke_width: 0
+- name: bottom
+  x: 0.541
+  y: 0.15
+  width: 0.198
+  height: 0.22
+  align: center
+  valign: middle
+  color: '#BBBBBB'
+  stroke_width: 0
+- name: middle
+  x: 0.476
+  y: 0.85
+  width: 0.288
+  height: 0.1
+  align: center
+  valign: middle
+  stroke_width: 0
+  angle: 9.0
+example_text:
+- my weekend plans
+- a mysterious side quest
+- this is the funny part

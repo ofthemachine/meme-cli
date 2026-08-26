@@ -1,0 +1,32 @@
+name: Girl with a Pearl Earring
+source: https://commons.wikimedia.org/wiki/File:Girl_with_a_Pearl_Earring.jpg
+license: Public domain (Johannes Vermeer, c. 1665)
+keywords:
+- surprised
+- side eye
+- look back
+- vermeer
+- glance
+- caught
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.02
+  y: 0.0
+  width: 0.96
+  height: 0.14
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.02
+  y: 0.88
+  width: 0.96
+  height: 0.1
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- the look when
+- someone ruins the bit

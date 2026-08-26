@@ -1,0 +1,10 @@
+/meme-cli
+examples/
+*.png
+*.jpg
+!templates/**/*.jpg
+!templates/**/*.png
+!docs/**/*.png
+!docs/**/*.jpg
+!releases/**/*.png
+!releases/**/*.jpg

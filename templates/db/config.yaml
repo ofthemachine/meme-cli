@@ -1,0 +1,33 @@
+name: Distracted Boyfriend
+source: https://knowyourmeme.com/memes/distracted-boyfriend
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- distracted boyfriend
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.1362
+  y: 0.7
+  width: 0.2925
+  height: 0.1
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.5588
+  y: 0.45
+  width: 0.1575
+  height: 0.1
+  align: center
+  valign: middle
+- name: middle
+  x: 0.75
+  y: 0.66
+  width: 0.18
+  height: 0.1
+  align: center
+  valign: middle
+example_text:
+- the spreadsheet has feelings
+- and they're hurt
+- 'main quest: nap'

@@ -1,0 +1,29 @@
+name: Tuxedo Winnie the Pooh
+source: https://knowyourmeme.com/memes/tuxedo-winnie-the-pooh
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- tuxedo winnie the pooh
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.525
+  y: 0.0
+  width: 0.45
+  height: 0.5
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.525
+  y: 0.5
+  width: 0.45
+  height: 0.5
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- normal thought
+- fancy cursed thought

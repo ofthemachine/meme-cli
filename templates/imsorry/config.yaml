@@ -1,0 +1,27 @@
+name: Oh, I'm Sorry, I Thought This Was America
+source: http://knowyourmeme.com/memes/oh-im-sorry-i-thought-this-was-america
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- oh, i'm sorry, i thought this was america
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- me vs the guy she told me
+- not to worry about (a goose)

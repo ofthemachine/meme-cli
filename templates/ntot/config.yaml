@@ -1,0 +1,41 @@
+name: No Take, Only Throw
+source: https://knowyourmeme.com/memes/no-take-only-throw
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- no take, only throw
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0655
+  y: 0.08
+  width: 0.189
+  height: 0.15
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+  angle: 12.0
+- name: bottom
+  x: 0.469
+  y: 0.15
+  width: 0.162
+  height: 0.15
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: middle
+  x: 0.7125
+  y: 0.135
+  width: 0.225
+  height: 0.15
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+example_text:
+- the final boss was
+- a calendar invite
+- this frame contains secrets

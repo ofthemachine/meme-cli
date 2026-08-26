@@ -1,0 +1,39 @@
+name: Vince McMahon Reaction
+source: https://knowyourmeme.com/memes/vince-mcmahon-reaction
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- vince mcmahon reaction
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0248
+  y: 0.0
+  width: 0.4455
+  height: 0.315
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.0248
+  y: 0.32
+  width: 0.4455
+  height: 0.357
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: middle
+  x: 0.0248
+  y: 0.68
+  width: 0.4455
+  height: 0.32
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- vince offered
+- chaos
+- subplot getting paid

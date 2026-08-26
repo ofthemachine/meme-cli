@@ -1,0 +1,28 @@
+name: Milk Was a Bad Choice
+source: https://www.youtube.com/watch?v=DeY0yPqibb0
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- anchorman
+- milk was a bad choice
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- the vibes are rancid
+- but the Wi-Fi is free

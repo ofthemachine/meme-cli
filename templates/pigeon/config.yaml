@@ -1,0 +1,34 @@
+name: Is This a Pigeon?
+source: https://knowyourmeme.com/memes/is-this-a-pigeon
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- is this a pigeon?
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.1675
+  y: 0.0
+  width: 0.315
+  height: 0.2
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.7188
+  y: 0.3
+  width: 0.1575
+  height: 0.1
+  align: center
+  valign: middle
+- name: middle
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  color: '#C3B091'
+example_text:
+- is this a pigeon?
+- is this a personality?
+- character development denied

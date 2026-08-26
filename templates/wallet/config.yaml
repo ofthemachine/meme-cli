@@ -1,0 +1,81 @@
+name: Patrick Star's Wallet
+source: https://knowyourmeme.com/memes/patrick-stars-wallet
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- patrick star's wallet
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.025
+  y: 0.17
+  width: 0.45
+  height: 0.08
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.525
+  y: 0.18
+  width: 0.45
+  height: 0.07
+  align: center
+  valign: middle
+  color: '#C3B091'
+  stroke_width: 0
+- name: middle
+  x: 0.025
+  y: 0.4
+  width: 0.45
+  height: 0.1
+  align: center
+  valign: middle
+- name: line4
+  x: 0.525
+  y: 0.43
+  width: 0.45
+  height: 0.07
+  align: center
+  valign: middle
+  color: '#C3B091'
+  stroke_width: 0
+- name: line5
+  x: 0.025
+  y: 0.65
+  width: 0.45
+  height: 0.1
+  align: center
+  valign: middle
+- name: line6
+  x: 0.525
+  y: 0.67
+  width: 0.45
+  height: 0.08
+  align: center
+  valign: middle
+  color: '#C3B091'
+  stroke_width: 0
+- name: line7
+  x: 0.025
+  y: 0.92
+  width: 0.45
+  height: 0.08
+  align: center
+  valign: middle
+- name: line8
+  x: 0.525
+  y: 0.92
+  width: 0.45
+  height: 0.08
+  align: center
+  valign: middle
+  color: '#C3B091'
+  stroke_width: 0
+example_text:
+- 'receipt 1: chaos'
+- 'receipt 2: snacks'
+- 'receipt 3: lore'
+- 'receipt 4: regret'
+- 'receipt 5: more snacks'
+- 'receipt 6: a tiny violin'
+- 'receipt 7: Wi-Fi'
+- 'receipt 8: this meme'

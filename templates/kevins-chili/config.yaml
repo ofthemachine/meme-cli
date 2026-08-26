@@ -1,0 +1,30 @@
+name: Kevin's Chili
+source: https://imgflip.com/memetemplate/162729714/Kevins-Chili
+license: Fair-use TV screencap (The Office, NBC, S06E01 "Gossip", 2009)
+keywords:
+- the office
+- kevin malone
+- chili
+- spill
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.02
+  width: 0.9
+  height: 0.14
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.52
+  width: 0.9
+  height: 0.14
+  align: center
+  valign: top
+  uppercase: true
+example_text:
+- CARRYING FIVE YEARS OF TECH DEBT
+- IT ALL HITS PRODUCTION AT ONCE

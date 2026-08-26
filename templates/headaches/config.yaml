@@ -1,0 +1,19 @@
+name: Types of Headaches
+source: https://knowyourmeme.com/memes/types-of-headaches
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- types of headaches
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.525
+  y: 0.64
+  width: 0.45
+  height: 0.08
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- this frame contains secrets

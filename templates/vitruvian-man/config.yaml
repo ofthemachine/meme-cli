@@ -1,0 +1,33 @@
+name: Vitruvian Man
+source: https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg
+license: CC BY-SA 3.0 (photographic reproduction by Luc Viatour, www.Lucnix.be); underlying
+  drawing (Leonardo da Vinci, c. 1490) is public domain. Attribution required if redistributed.
+keywords:
+- balance
+- perfect
+- proportions
+- davinci
+- symmetry
+- ideal
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.02
+  y: 0.0
+  width: 0.96
+  height: 0.14
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.02
+  y: 0.88
+  width: 0.96
+  height: 0.1
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- perfectly balanced
+- as all chaos should be

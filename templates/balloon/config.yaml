@@ -1,0 +1,43 @@
+name: Running Away Balloon
+source: https://knowyourmeme.com/memes/running-away-balloon
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- superlmer
+- running away balloon
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.6295
+  y: 0.1
+  width: 0.351
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.8195
+  y: 0.57
+  width: 0.351
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+- name: middle
+  x: 0.0135
+  y: 0.7
+  width: 0.243
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+example_text:
+- letting go of normalcy
+- watching it float away
+- I contain snacks

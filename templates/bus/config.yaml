@@ -1,0 +1,28 @@
+name: Two Guys on a Bus
+source: https://knowyourmeme.com/memes/two-guys-on-a-bus
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- genildo ronchi
+- two guys on a bus
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.02
+  y: 0.25
+  width: 0.36
+  height: 0.3
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.52
+  y: 0.16
+  width: 0.36
+  height: 0.3
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- day 47 of pretending
+- the group chat is a cult

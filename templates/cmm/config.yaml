@@ -1,0 +1,26 @@
+name: Change My Mind
+source: https://knowyourmeme.com/memes/steven-crowders-change-my-mind-campus-sign
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- change my mind
+background:
+  image: default.jpg
+text_boxes:
+- name: sign
+  quad:
+  - - 0.33
+    - 0.57
+  - - 0.78
+    - 0.35
+  - - 0.83
+    - 0.57
+  - - 0.41
+    - 0.79
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+  max_font_size: 40
+example_text:
+- PIGEONS DESERVE UNION REPS

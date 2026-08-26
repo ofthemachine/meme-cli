@@ -1,0 +1,27 @@
+name: Hipster Barista
+source: http://knowyourmeme.com/memes/hipster-barista
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- hipster barista
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- my toxic trait is
+- optimizing joy out of weekends

@@ -1,0 +1,29 @@
+name: Woman Yelling at a Cat
+source: https://knowyourmeme.com/memes/woman-yelling-at-a-cat
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- woman yelling at a cat
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.025
+  y: 0.0
+  width: 0.45
+  height: 0.22
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.525
+  y: 0.0
+  width: 0.45
+  height: 0.22
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- I should rest
+- I will invent a new worry

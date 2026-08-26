@@ -1,0 +1,28 @@
+name: Will Smith Slapping Chris Rock
+source: https://knowyourmeme.com/memes/will-smith-slapping-chris-rock
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- will smith slapping chris rock
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.1975
+  y: 0.13
+  width: 0.315
+  height: 0.3
+  align: center
+  valign: middle
+  uppercase: true
+  angle: 44.0
+- name: bottom
+  x: 0.5175
+  y: 0.7
+  width: 0.315
+  height: 0.3
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- slapping
+- sense into the group chat

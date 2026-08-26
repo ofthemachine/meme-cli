@@ -1,0 +1,32 @@
+name: Get Better Material
+source: https://knowyourmeme.com/memes/get-better-material
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- get better material
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.3325
+  y: 0.02
+  width: 0.135
+  height: 0.15
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.63
+  y: 0.72
+  width: 0.27
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+  angle: 12.0
+example_text:
+- main character energy
+- side quest budget

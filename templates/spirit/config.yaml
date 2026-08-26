@@ -1,0 +1,54 @@
+name: Fake Spirit Halloween Costume
+source: https://knowyourmeme.com/photos/2466845-fake-spirit-halloween-costumes
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- adult size costume
+- fake spirit halloween costume
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.1175
+  y: 0.28
+  width: 0.315
+  height: 0.16
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.117
+  y: 0.45
+  width: 0.306
+  height: 0.05
+  align: left
+  valign: middle
+  stroke_width: 0
+- name: middle
+  x: 0.117
+  y: 0.51
+  width: 0.306
+  height: 0.08
+  align: left
+  valign: middle
+  stroke_width: 0
+- name: line4
+  x: 0.117
+  y: 0.59
+  width: 0.306
+  height: 0.08
+  align: left
+  valign: middle
+  stroke_width: 0
+- name: line5
+  x: 0.117
+  y: 0.67
+  width: 0.306
+  height: 0.08
+  align: left
+  valign: middle
+  stroke_width: 0
+example_text:
+- Halloween
+- but make it
+- HR compliant
+- nevermind
+- chaos

@@ -1,0 +1,28 @@
+name: Life... Finds a Way
+source: https://www.youtube.com/watch?v=dMjQ3hA9mEA
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- jurassic park
+- life... finds a way
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- do not talk to me
+- until I've communed with coffee

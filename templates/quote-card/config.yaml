@@ -1,0 +1,24 @@
+name: Quote Card
+license: Original to meme-cli; no third-party image
+keywords:
+- quote
+- blank
+- text-only
+- motivational
+- plain
+background:
+  color: '#111111'
+  width: 1000
+  height: 1000
+text_boxes:
+- name: text
+  x: 0.08
+  y: 0.32
+  width: 0.84
+  height: 0.36
+  align: center
+  valign: middle
+  color: '#ffffff'
+  stroke_width: 0
+example_text:
+- The universe is under no obligation to make sense to you — but the meme is.

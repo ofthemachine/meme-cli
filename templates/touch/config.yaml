@@ -1,0 +1,27 @@
+name: Principal Skinner
+source: https://knowyourmeme.com/memes/am-i-out-of-touch
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- am i out of touch?
+- the simpsons
+- principal skinner
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.3
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+example_text:
+- don't touch me
+- I'm buffering

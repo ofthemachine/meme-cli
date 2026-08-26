@@ -1,0 +1,49 @@
+name: Elmo Choosing Cocaine
+source: https://knowyourmeme.com/memes/elmo-choosing-cocaine
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- elmo choosing cocaine
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.015
+  y: 0.24
+  width: 0.27
+  height: 0.25
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.365
+  y: 0.21
+  width: 0.27
+  height: 0.17
+  align: center
+  valign: middle
+- name: middle
+  x: 0.605
+  y: 0.39
+  width: 0.27
+  height: 0.1
+  align: center
+  valign: middle
+- name: line4
+  x: 0.015
+  y: 0.69
+  width: 0.27
+  height: 0.25
+  align: center
+  valign: middle
+- name: line5
+  x: 0.605
+  y: 0.87
+  width: 0.27
+  height: 0.1
+  align: center
+  valign: middle
+example_text:
+- rise
+- chaos
+- snack
+- nap
+- rise again

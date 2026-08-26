@@ -1,0 +1,41 @@
+name: Grant Gustin Next To Oliver Queen's Grave
+source: https://knowyourmeme.com/memes/grant-gustin-next-to-oliver-queens-grave
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- grant gustin next to oliver queen's grave
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.15
+  y: 0.23
+  width: 0.18
+  height: 0.23
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+  angle: 4.0
+- name: bottom
+  x: 0.12
+  y: 0.75
+  width: 0.36
+  height: 0.2
+  align: center
+  valign: middle
+  stroke_width: 0
+  angle: 5.0
+- name: middle
+  x: 0.52
+  y: 0.48
+  width: 0.36
+  height: 0.2
+  align: center
+  valign: middle
+  stroke_width: 0
+  angle: 20.0
+example_text:
+- the algorithm knows me
+- and it's disappointed
+- this is the funny part

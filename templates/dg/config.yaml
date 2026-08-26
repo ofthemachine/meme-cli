@@ -1,0 +1,33 @@
+name: Distracted Girlfriend
+source: https://knowyourmeme.com/memes/distracted-boyfriend
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- distracted girlfriend
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0375
+  y: 0.6
+  width: 0.315
+  height: 0.2
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.4625
+  y: 0.75
+  width: 0.225
+  height: 0.15
+  align: center
+  valign: middle
+- name: middle
+  x: 0.7612
+  y: 0.65
+  width: 0.2025
+  height: 0.15
+  align: center
+  valign: middle
+example_text:
+- emotionally available
+- geographically a couch
+- please perceive carefully

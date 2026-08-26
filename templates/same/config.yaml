@@ -1,0 +1,39 @@
+name: They're The Same Picture
+source: https://knowyourmeme.com/memes/theyre-the-same-picture
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- they're the same picture
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0775
+  y: 0.015
+  width: 0.315
+  height: 0.3
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+  angle: -12.0
+- name: bottom
+  x: 0.5475
+  y: 0.06
+  width: 0.405
+  height: 0.3
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+  angle: -12.0
+- name: middle
+  x: 0.47
+  y: 0.775
+  width: 0.36
+  height: 0.15
+  align: center
+  valign: middle
+example_text:
+- same energy
+- different species
+- lore? in this economy?

@@ -1,0 +1,32 @@
+name: Creation of Adam
+source: https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg
+license: Public domain (Michelangelo, c. 1512)
+keywords:
+- reaching
+- connection
+- almost
+- so close
+- michelangelo
+- sistine
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.02
+  y: 0.0
+  width: 0.96
+  height: 0.22
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.02
+  y: 0.76
+  width: 0.96
+  height: 0.22
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- God giving me
+- one more weird idea

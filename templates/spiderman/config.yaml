@@ -1,0 +1,27 @@
+name: Spider-Man Pointing at Spider-Man
+source: https://knowyourmeme.com/memes/spider-man-pointing-at-spider-man
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- spider-man pointing at spider-man
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0725
+  y: 0.0
+  width: 0.405
+  height: 0.15
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.5225
+  y: 0.85
+  width: 0.405
+  height: 0.15
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- pointing at
+- my own chaotic energy

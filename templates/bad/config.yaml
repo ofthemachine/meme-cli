@@ -1,0 +1,29 @@
+name: You Should Feel Bad
+source: http://knowyourmeme.com/memes/your-musics-bad-and-you-should-feel-bad
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- futurama
+- zoidberg
+- you should feel bad
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- I don't ghost people
+- I enter power-saving mode

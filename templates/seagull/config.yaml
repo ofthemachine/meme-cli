@@ -1,0 +1,25 @@
+name: Inhaling Seagull
+source: https://knowyourmeme.com/memes/inhaling-seagull
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- inhaling seagull
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0125
+  y: 0.24
+  width: 0.225
+  height: 0.1
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.05
+  y: 0.75
+  width: 0.9
+  height: 0.25
+  align: center
+  valign: middle
+example_text:
+- mine
+- also mine (the bit)

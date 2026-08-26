@@ -1,0 +1,30 @@
+name: The Starry Night
+source: https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
+license: Public domain (Vincent van Gogh, 1889)
+keywords:
+- starry night
+- van gogh
+- ufo
+- sky
+background:
+  image: default.jpg
+text_boxes:
+- align: center
+  uppercase: true
+  name: top
+  x: 0.02
+  y: 0.0
+  width: 0.96
+  height: 0.2
+  valign: top
+- align: center
+  uppercase: true
+  name: bottom
+  x: 0.02
+  y: 0.82
+  width: 0.96
+  height: 0.16
+  valign: bottom
+example_text:
+- van Gogh painted
+- my sleep schedule

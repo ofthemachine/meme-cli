@@ -1,0 +1,57 @@
+name: I Made This
+source: https://knowyourmeme.com/memes/i-made-this
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- i made this
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0225
+  y: 0.28
+  width: 0.225
+  height: 0.1
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.7525
+  y: 0.28
+  width: 0.225
+  height: 0.1
+  align: center
+  valign: middle
+  uppercase: true
+- name: middle
+  x: 0.2775
+  y: 0.04
+  width: 0.135
+  height: 0.1
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: line4
+  x: 0.5325
+  y: 0.03
+  width: 0.135
+  height: 0.1
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: line5
+  x: 0.3525
+  y: 0.725
+  width: 0.135
+  height: 0.1
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- they hate him
+- for he spoke
+- the forbidden
+- truth about
+- mayonnaise

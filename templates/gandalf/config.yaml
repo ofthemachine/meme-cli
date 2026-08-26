@@ -1,0 +1,30 @@
+name: Confused Gandalf
+source: http://knowyourmeme.com/memes/confused-gandalf
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- lord of the rings
+- confused gandalf
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.3
+  align: center
+  valign: top
+  uppercase: true
+  max_font_size: 24
+- name: bottom
+  x: 0.05
+  y: 0.67
+  width: 0.9
+  height: 0.3
+  align: center
+  valign: bottom
+  uppercase: true
+  max_font_size: 24
+example_text:
+- you shall not
+- pass judgment on my bit

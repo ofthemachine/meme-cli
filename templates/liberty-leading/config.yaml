@@ -1,0 +1,32 @@
+name: Liberty Leading the People
+source: https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg
+license: Public domain (Eugène Delacroix, 1830)
+keywords:
+- rally
+- motivation
+- revolution
+- delacroix
+- charge
+- uprising
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.02
+  y: 0.0
+  width: 0.96
+  height: 0.16
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.02
+  y: 0.84
+  width: 0.96
+  height: 0.14
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- leading the charge
+- toward snack time

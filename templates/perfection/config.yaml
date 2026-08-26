@@ -1,0 +1,73 @@
+name: Perfection
+source: https://knowyourmeme.com/memes/perfection
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- i prefer the real raven
+- perfection
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.025
+  y: 0.0
+  width: 0.45
+  height: 0.333
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.525
+  y: 0.225
+  width: 0.45
+  height: 0.1
+  align: center
+  valign: middle
+  color: '#C3B091'
+  stroke_width: 0
+- name: middle
+  x: 0.025
+  y: 0.333
+  width: 0.45
+  height: 0.333
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+- name: line4
+  x: 0.525
+  y: 0.56
+  width: 0.45
+  height: 0.1
+  align: center
+  valign: middle
+  color: '#C3B091'
+  stroke_width: 0
+- name: line5
+  x: 0.025
+  y: 0.666
+  width: 0.45
+  height: 0.333
+  align: center
+  valign: middle
+  uppercase: true
+  color: black
+  stroke_width: 0
+- name: line6
+  x: 0.525
+  y: 0.895
+  width: 0.45
+  height: 0.1
+  align: center
+  valign: middle
+  color: '#C3B091'
+  stroke_width: 0
+example_text:
+- expectation
+- reality
+- reality but weirder
+- pigeon
+- perfection
+- wait

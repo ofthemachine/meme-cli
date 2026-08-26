@@ -1,0 +1,29 @@
+name: Prison Mike
+source: https://imgflip.com/memegenerator/70011215/Prison-mike
+license: Fair-use TV screencap (The Office, NBC, S03E09 "The Convict", 2006)
+keywords:
+- the office
+- prison mike
+- michael scott
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.78
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- THEY SAID THE ONCALL ROTATION WAS FINE
+- LET ME TELL YOU ABOUT PRISON

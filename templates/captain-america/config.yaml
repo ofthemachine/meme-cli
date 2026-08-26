@@ -1,0 +1,35 @@
+name: Captain America Elevator Fight Dad Joke
+source: https://knowyourmeme.com/memes/captain-america-elevator-fight-dad-joke
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- captain america elevator fight dad joke
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.23
+  width: 0.9
+  height: 0.1
+  align: center
+  valign: middle
+  color: '#C3B091'
+- name: bottom
+  x: 0.02
+  y: 0.57
+  width: 0.36
+  height: 0.08
+  align: center
+  valign: middle
+- name: middle
+  x: 0.525
+  y: 0.56
+  width: 0.45
+  height: 0.1
+  align: center
+  valign: middle
+  color: '#C3B091'
+example_text:
+- the prophecy foretold my standup
+- it did not mention the crickets
+- softly screaming

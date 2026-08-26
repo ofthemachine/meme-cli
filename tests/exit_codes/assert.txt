@@ -1,0 +1,3 @@
+unknown template exit: 2
+bad meme-dir exit: 2
+bad args exit: 1

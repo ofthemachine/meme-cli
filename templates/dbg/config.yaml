@@ -1,0 +1,30 @@
+name: Expectation vs. Reality
+source: https://knowyourmeme.com/memes/disappointed-black-guy
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- disappointed black guy
+- expectation vs. reality
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.024
+  y: 0.0
+  width: 0.432
+  height: 0.5
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.024
+  y: 0.5
+  width: 0.432
+  height: 0.5
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- living deliciously
+- crying professionally

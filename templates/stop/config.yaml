@@ -1,0 +1,69 @@
+name: Stop It Patrick You're Scaring Him
+source: https://knowyourmeme.com/memes/stop-it-patrick-youre-scaring-him
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- stop it patrick you're scaring him
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.025
+  y: 0.0
+  width: 0.45
+  height: 0.06
+  align: center
+  valign: middle
+  color: '#b1e0d0'
+  stroke_width: 0
+- name: bottom
+  x: 0.525
+  y: 0.0
+  width: 0.45
+  height: 0.075
+  align: center
+  valign: middle
+  color: '#ffb6a6'
+  stroke_width: 0
+- name: middle
+  x: 0.196
+  y: 0.335
+  width: 0.288
+  height: 0.18
+  align: center
+  valign: middle
+  color: '#fff05c'
+  stroke_width: 0
+- name: line4
+  x: 0.525
+  y: 0.335
+  width: 0.45
+  height: 0.07
+  align: center
+  valign: middle
+  color: '#b1e0d0'
+  stroke_width: 0
+- name: line5
+  x: 0.025
+  y: 0.67
+  width: 0.45
+  height: 0.075
+  align: center
+  valign: middle
+  color: '#ffb6a6'
+  stroke_width: 0
+- name: line6
+  x: 0.525
+  y: 0.67
+  width: 0.45
+  height: 0.075
+  align: center
+  valign: middle
+  color: '#fff05c'
+  stroke_width: 0
+example_text:
+- stop
+- do not
+- the bit
+- is already
+- in motion
+- sorry

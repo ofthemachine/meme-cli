@@ -1,0 +1,39 @@
+name: Panik Kalm Panik
+source: https://knowyourmeme.com/memes/panik-kalm
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- panik kalm panik
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0325
+  y: 0.01
+  width: 0.405
+  height: 0.32
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.0325
+  y: 0.35
+  width: 0.405
+  height: 0.32
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: middle
+  x: 0.0325
+  y: 0.69
+  width: 0.405
+  height: 0.305
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- panik
+- kalm
+- panik but funny

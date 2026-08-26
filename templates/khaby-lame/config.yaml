@@ -1,0 +1,30 @@
+name: Khaby Lame Shrug
+source: https://knowyourmeme.com/photos/2132291-khaby-lame-shrug-its-that-simple
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- it's that sample
+- khaby lame shrug
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0425
+  y: 0.02
+  width: 0.405
+  height: 0.47
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.0425
+  y: 0.51
+  width: 0.405
+  height: 0.47
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- my love language is
+- sending you cursed images

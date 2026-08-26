@@ -1,0 +1,27 @@
+name: Say the Line, Bart!
+source: https://knowyourmeme.com/memes/say-the-line-bart
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- the simpsons
+- bart simpson
+- say the line, bart!
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.33
+  width: 0.9
+  height: 0.17
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.05
+  y: 0.85
+  width: 0.9
+  height: 0.15
+  align: center
+  valign: middle
+example_text:
+- please do not perceive me
+- I am in debug mode

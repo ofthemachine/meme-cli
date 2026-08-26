@@ -1,0 +1,27 @@
+name: Almost Politically Correct Redneck
+source: https://knowyourmeme.com/memes/almost-politically-correct-redneck
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- almost politically correct redneck
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- my ancestors fought bears
+- I fight CAPTCHAs

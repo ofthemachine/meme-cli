@@ -1,0 +1,62 @@
+name: American Chopper Argument
+source: https://knowyourmeme.com/memes/american-chopper-argument
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- american chopper argument
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0248
+  y: 0.2
+  width: 0.4455
+  height: 0.13
+  align: center
+  valign: middle
+  color: '#C3B091'
+- name: bottom
+  x: 0.5202
+  y: 0.2
+  width: 0.4545
+  height: 0.13
+  align: center
+  valign: middle
+- name: middle
+  x: 0.0248
+  y: 0.535
+  width: 0.4455
+  height: 0.13
+  align: center
+  valign: middle
+  color: '#C3B091'
+- name: line4
+  x: 0.5202
+  y: 0.525
+  width: 0.4545
+  height: 0.14
+  align: center
+  valign: middle
+- name: line5
+  x: 0.025
+  y: 0.87
+  width: 0.45
+  height: 0.13
+  align: center
+  valign: middle
+  uppercase: true
+  color: '#C3B091'
+- name: line6
+  x: 0.525
+  y: 0.87
+  width: 0.45
+  height: 0.13
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- waiting
+- still waiting
+- the chair knows
+- the chair judges
+- the chair forgives
+- maybe

@@ -1,0 +1,29 @@
+name: We Don't Do That Here
+source: https://knowyourmeme.com/memes/we-dont-do-that-here
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- black panther
+- we don't do that here
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.15
+  align: center
+  valign: middle
+  uppercase: true
+- name: bottom
+  x: 0.14
+  y: 0.85
+  width: 0.72
+  height: 0.15
+  align: center
+  valign: middle
+  color: '#C3B091'
+  stroke_width: 0
+example_text:
+- day 47 of pretending
+- the group chat is a cult

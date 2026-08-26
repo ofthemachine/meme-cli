@@ -1,0 +1,40 @@
+name: Epic Handshake
+source: https://www.deviantart.com/miloslavvonranda/art/EPIC-handshake-by-Dillon-and-Dutch-325709082
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- object-labeled
+- object-labelling
+- epic handshake
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: -0.0075
+  y: 0.3
+  width: 0.36
+  height: 0.4
+  align: center
+  valign: middle
+  uppercase: true
+  angle: -45.0
+- name: bottom
+  x: 0.42
+  y: 0.35
+  width: 0.36
+  height: 0.4
+  align: center
+  valign: middle
+  uppercase: true
+  angle: 27.5
+- name: middle
+  x: 0.175
+  y: 0.1
+  width: 0.45
+  height: 0.2
+  align: center
+  valign: middle
+  uppercase: true
+example_text:
+- weirdos
+- handshake
+- also weirdos

@@ -1,0 +1,34 @@
+name: Mother Ignoring Kid Drowning In A Pool
+source: https://knowyourmeme.com/memes/mother-ignoring-kid-drowning-in-a-pool
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- my cousins learning to swim
+- mother ignoring kid drowning in a pool
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.35
+  y: 0.4
+  width: 0.36
+  height: 0.15
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.07
+  y: 0.85
+  width: 0.36
+  height: 0.15
+  align: center
+  valign: middle
+- name: middle
+  x: 0.62
+  y: 0.65
+  width: 0.36
+  height: 0.15
+  align: center
+  valign: middle
+example_text:
+- father dumping
+- my normal personality
+- 'behold: a tiny disaster'

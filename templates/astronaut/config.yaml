@@ -1,0 +1,43 @@
+name: Always Has Been
+source: https://knowyourmeme.com/memes/wait-its-all-ohio-always-has-been
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- always has been
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.4625
+  y: 0.35
+  width: 0.225
+  height: 0.1
+  align: center
+  valign: middle
+  stroke_width: 0
+- name: bottom
+  x: 0.7625
+  y: 0.0
+  width: 0.225
+  height: 0.1
+  align: center
+  valign: middle
+  stroke_width: 0
+- name: middle
+  x: 0.3875
+  y: 0.8
+  width: 0.225
+  height: 0.1
+  align: center
+  valign: middle
+- name: line4
+  x: 0.7625
+  y: 0.7
+  width: 0.225
+  height: 0.1
+  align: center
+  valign: middle
+example_text:
+- wait it's all bits?
+- always has been
+- the bit
+- the bigger bit

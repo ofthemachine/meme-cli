@@ -1,0 +1,49 @@
+name: Gru's Plan
+source: https://knowyourmeme.com/memes/grus-plan
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- gru's plan
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.2854
+  y: 0.2
+  width: 0.1867
+  height: 0.2
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.7903
+  y: 0.2
+  width: 0.1845
+  height: 0.2
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: middle
+  x: 0.2903
+  y: 0.7
+  width: 0.1845
+  height: 0.2
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: line4
+  x: 0.7903
+  y: 0.7
+  width: 0.1845
+  height: 0.2
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- steal the moon
+- steal the bit
+- realize the bit stole me
+- still funny though

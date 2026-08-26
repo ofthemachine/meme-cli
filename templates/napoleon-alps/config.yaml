@@ -1,0 +1,32 @@
+name: Napoleon Crossing the Alps
+source: https://commons.wikimedia.org/wiki/File:David_-_Napoleon_crossing_the_Alps_-_Malmaison1.jpg
+license: Public domain (Jacques-Louis David, 1801)
+keywords:
+- grandiose
+- confidence
+- ambitious
+- napoleon
+- heroic
+- bold claim
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.02
+  y: 0.0
+  width: 0.96
+  height: 0.16
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.02
+  y: 0.84
+  width: 0.96
+  height: 0.14
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- crossing the alps
+- of my to-do list

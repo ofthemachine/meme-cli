@@ -1,0 +1,73 @@
+name: Phoebe Teaching Joey
+source: https://knowyourmeme.com/photos/1846826-phoebe-teaching-joey
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- phoebe teaching joey
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.025
+  y: 0.175
+  width: 0.45
+  height: 0.05
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.525
+  y: 0.175
+  width: 0.45
+  height: 0.05
+  align: center
+  valign: middle
+- name: middle
+  x: 0.025
+  y: 0.425
+  width: 0.45
+  height: 0.05
+  align: center
+  valign: middle
+- name: line4
+  x: 0.525
+  y: 0.425
+  width: 0.45
+  height: 0.05
+  align: center
+  valign: middle
+- name: line5
+  x: 0.025
+  y: 0.675
+  width: 0.45
+  height: 0.05
+  align: center
+  valign: middle
+- name: line6
+  x: 0.525
+  y: 0.675
+  width: 0.45
+  height: 0.05
+  align: center
+  valign: middle
+- name: line7
+  x: 0.025
+  y: 0.925
+  width: 0.45
+  height: 0.05
+  align: center
+  valign: middle
+- name: line8
+  x: 0.525
+  y: 0.925
+  width: 0.45
+  height: 0.05
+  align: center
+  valign: middle
+example_text:
+- 'panel 1: calm'
+- 'panel 2: idea'
+- 'panel 3: escalation'
+- 'panel 4: pigeons'
+- 'panel 5: HR'
+- 'panel 6: folklore'
+- 'panel 7: snack'
+- 'panel 8: credits'

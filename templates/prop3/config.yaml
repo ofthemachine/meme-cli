@@ -1,0 +1,21 @@
+name: Too Confusing, Too Extreme
+source: https://wfgr.com/too-extreme-state-political-catch-phrase-gets-roasted-online/
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- michigan proposal 3
+- too confusing, too extreme
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.182
+  y: 0.31
+  width: 0.576
+  height: 0.31
+  align: center
+  valign: middle
+  color: maroon
+  stroke_width: 0
+  angle: -3.0
+example_text:
+- bonus scene unlocked

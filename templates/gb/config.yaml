@@ -1,0 +1,49 @@
+name: Galaxy Brain
+source: https://knowyourmeme.com/memes/galaxy-brain
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- galaxy brain
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0245
+  y: 0.0
+  width: 0.441
+  height: 0.245
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.0245
+  y: 0.255
+  width: 0.441
+  height: 0.246
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: middle
+  x: 0.0244
+  y: 0.51
+  width: 0.4401
+  height: 0.224
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: line4
+  x: 0.0245
+  y: 0.746
+  width: 0.441
+  height: 0.255
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- galaxy brain 1
+- galaxy brain 2
+- galaxy brain 3
+- pigeon mayor

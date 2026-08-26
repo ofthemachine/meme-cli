@@ -1,0 +1,32 @@
+name: The Great Wave
+source: https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa.jpg
+license: Public domain (Katsushika Hokusai, c. 1831)
+keywords:
+- wave
+- overwhelmed
+- incoming
+- hokusai
+- disaster
+- flood
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.02
+  y: 0.0
+  width: 0.96
+  height: 0.16
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.02
+  y: 0.84
+  width: 0.96
+  height: 0.14
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- the wave
+- of unread emails

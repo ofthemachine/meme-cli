@@ -1,0 +1,71 @@
+name: 🚀 Release meme-cli
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'releases/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  get-version:
+    name: 📋 Get version
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.version.outputs.version }}
+      release_file: ${{ steps.version.outputs.release_file }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
+
+      - name: Get version from release file
+        id: version
+        run: |
+          # Latest release = highest version by semver (sort -V), not lexicographic
+          LATEST_VERSION=$(find releases/ -name "*.md" -type f 2>/dev/null -exec basename {} .md \; | sort -V | tail -n1)
+          if [ -z "$LATEST_VERSION" ]; then
+            echo "No release file found in releases/. Add e.g. releases/v0.1.0.md"
+            exit 1
+          fi
+          RELEASE_FILE="releases/${LATEST_VERSION}.md"
+
+          echo "version=${LATEST_VERSION}" >> $GITHUB_OUTPUT
+          echo "release_file=${RELEASE_FILE}" >> $GITHUB_OUTPUT
+          echo "Building meme-cli ${LATEST_VERSION}"
+
+  build:
+    name: 🛠 Build meme-cli
+    needs: get-version
+    uses: ./.github/workflows/build-reusable.yml
+    with:
+      version: ${{ needs.get-version.outputs.version }}
+
+  release:
+    name: 🚀 Create GitHub Release
+    needs: [get-version, build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
+
+      - name: Download binaries from build
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
+        with:
+          name: meme-cli-binaries
+          path: .
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@5be0e66d93ac7ed76da52eca8bb058f665c3a5fe
+        with:
+          tag_name: ${{ needs.get-version.outputs.version }}
+          name: meme-cli ${{ needs.get-version.outputs.version }}
+          body_path: ${{ needs.get-version.outputs.release_file }}
+          files: |
+            meme-cli-*
+            checksums.txt

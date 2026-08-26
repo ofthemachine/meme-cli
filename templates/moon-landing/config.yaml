@@ -1,0 +1,32 @@
+name: Moon Landing
+source: https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11_original.jpg
+license: Public domain (NASA/Neil Armstrong, Apollo 11, 1969; US government work)
+keywords:
+- achievement
+- one small step
+- giant leap
+- moon
+- nasa
+- milestone
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.02
+  y: 0.0
+  width: 0.96
+  height: 0.16
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.02
+  y: 0.84
+  width: 0.96
+  height: 0.14
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- one small step
+- one giant overshare

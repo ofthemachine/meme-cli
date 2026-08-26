@@ -1,0 +1,32 @@
+name: Earthrise
+source: https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg
+license: Public domain (NASA/Bill Anders, Apollo 8, 1968; US government work)
+keywords:
+- perspective
+- small problems
+- big picture
+- earth
+- space
+- nasa
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.04
+  y: 0.03
+  width: 0.92
+  height: 0.18
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.04
+  y: 0.79
+  width: 0.92
+  height: 0.18
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- Earth looking back
+- like 'you good?'

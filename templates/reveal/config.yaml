@@ -1,0 +1,45 @@
+name: Scooby Doo Reveal
+source: https://knowyourmeme.com/memes/lets-see-who-this-really-is
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- scooby doo reveal
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.055
+  y: 0.26
+  width: 0.27
+  height: 0.1
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.05
+  y: 0.36
+  width: 0.9
+  height: 0.15
+  align: center
+  valign: middle
+  uppercase: true
+  color: '#C3B091'
+- name: middle
+  x: 0.055
+  y: 0.8
+  width: 0.27
+  height: 0.1
+  align: center
+  valign: middle
+- name: line4
+  x: 0.05
+  y: 0.9
+  width: 0.9
+  height: 0.1
+  align: center
+  valign: middle
+  uppercase: true
+  color: '#C3B091'
+example_text:
+- the door
+- the horror
+- the punchline
+- the pigeons

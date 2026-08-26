@@ -1,0 +1,40 @@
+name: We Have Food at Home
+source: https://knowyourmeme.com/memes/we-have-food-at-home
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- we have food at home
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.1
+  align: left
+  valign: middle
+  color: black
+  stroke_width: 0
+  angle: 0.0
+- name: bottom
+  x: 0.05
+  y: 0.1
+  width: 0.9
+  height: 0.1
+  align: left
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: middle
+  x: 0.05
+  y: 0.2
+  width: 0.9
+  height: 0.1
+  align: left
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- home is where
+- the weird is
+- 'vibes: wet cardboard'

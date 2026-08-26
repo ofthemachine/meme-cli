@@ -1,0 +1,5 @@
+=== without --meme-dir ===
+failed as expected
+=== with --meme-dir ===
+wrote out.png
+file non-empty

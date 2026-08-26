@@ -1,0 +1,41 @@
+name: You Guys Are Getting Paid?
+source: https://knowyourmeme.com/photos/1712302-you-guys-are-getting-paid
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- you guys are getting paid?
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.025
+  y: 0.35
+  width: 0.45
+  height: 0.15
+  align: center
+  valign: middle
+- name: bottom
+  x: 0.525
+  y: 0.35
+  width: 0.45
+  height: 0.15
+  align: center
+  valign: middle
+- name: middle
+  x: 0.025
+  y: 0.85
+  width: 0.45
+  height: 0.15
+  align: center
+  valign: middle
+- name: line4
+  x: 0.525
+  y: 0.85
+  width: 0.45
+  height: 0.15
+  align: center
+  valign: middle
+example_text:
+- death
+- taxes
+- group chats
+- unread

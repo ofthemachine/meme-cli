@@ -1,0 +1,21 @@
+name: Genie Rules
+source: https://en.meming.world/wiki/Genie_Rules
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- wish
+- want
+- genie rules
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0225
+  y: 0.48
+  width: 0.405
+  height: 0.15
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- genie grants

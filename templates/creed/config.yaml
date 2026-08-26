@@ -1,0 +1,30 @@
+name: Creed Bratton
+source: https://imgflip.com/memetemplate/86080526/Creed-The-Office
+license: Fair-use TV screencap (The Office, NBC, 2005-2013)
+keywords:
+- the office
+- creed
+- creed bratton
+- creed thoughts
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.05
+  y: 0.0
+  width: 0.9
+  height: 0.18
+  align: center
+  valign: top
+  uppercase: true
+- name: bottom
+  x: 0.05
+  y: 0.8
+  width: 0.9
+  height: 0.18
+  align: center
+  valign: bottom
+  uppercase: true
+example_text:
+- WROTE THE WHOLE THING IN COBOL
+- NOBODY ASKED QUESTIONS

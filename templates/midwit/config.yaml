@@ -1,0 +1,40 @@
+name: Midwit
+source: https://knowyourmeme.com/memes/iq-bell-curve-midwit
+license: Imported from jacebrowning/memegen (MIT); see NOTICE.md for template provenance.
+keywords:
+- iq bell curve / midwit
+- midwit
+background:
+  image: default.jpg
+text_boxes:
+- name: top
+  x: 0.0341
+  y: 0.46
+  width: 0.2547
+  height: 0.1
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: bottom
+  x: 0.165
+  y: 0.02
+  width: 0.63
+  height: 0.1
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+- name: middle
+  x: 0.7012
+  y: 0.386
+  width: 0.2547
+  height: 0.1
+  align: center
+  valign: middle
+  color: black
+  stroke_width: 0
+example_text:
+- I put crystals on the router
+- packet loss decreased (spiritually)
+- emotionally DIY
